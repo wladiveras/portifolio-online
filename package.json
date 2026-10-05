@@ -24,7 +24,7 @@
         "@nuxt/ui-pro": "3.0.0-alpha.10",
         "@nuxtjs/i18n": "9.0.0-rc.2",
         "@pinia/nuxt": "^0.8.0",
-        "@vite-pwa/nuxt": "^0.10.6",
+        "@vite-pwa/nuxt": "^1.1.1",
         "@vitejs/plugin-vue": "^5.2.1",
         "animate.css": "^4.1.1",
         "jsdom": "^25.0.1",
